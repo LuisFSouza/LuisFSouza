@@ -1,5 +1,5 @@
 <h2>Hi! my name is Luis Felipi Souza, I'm a Developer from Serra Negra, São Paulo</h2>
-<h4>Technician in Systems Development | ETEC João Belarmino, Amparo - SP | 2019 - 2021</h2>
+<h4>Education: Technician in Systems Development | ETEC João Belarmino, Amparo - SP | 2019 - 2021</h2>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LuisFSouza)](https://github.com/LuisFSouza)
 
