@@ -1,7 +1,6 @@
 <h2>Hi! my name is Luis Felipi Souza, I'm a Developer from Sorocaba, São Paulo</h2>
 <h4>Education: Technician in Systems Development | ETEC João Belarmino, Amparo - SP | 2019 - 2021</h4>
 <h4>Computer science | UFSCar, Sorocaba - SP | 2022 - Now</h4>
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LuisFSouza)](https://github.com/LuisFSouza)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFSouza&layout=compact)](https://github.com/LuisFSouza)
 
