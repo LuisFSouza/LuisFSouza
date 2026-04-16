@@ -19,7 +19,6 @@
 <img style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" Width="40"/>
 <img style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" Width="40"/>
 </div>
-</div>
 <div style = "margin-left: 40px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFSouza&layout=compact)](https://github.com/LuisFSouza)
