@@ -31,11 +31,11 @@ Desenvolvedor de Software focado no ecossistema Java e soluções em nuvem com G
 
 ---
 
-### 📊 Estatísticas
+### 📊 Linguagens Mais Usadas
 
 <div align="center">
   <a href="https://github.com/LuisFSouza">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFSouza&layout=compact&theme=radial&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisFSouza&layout=compact&theme=radial&hide_border=true" alt="Top Langs" />
   </a>
 </div>
 
