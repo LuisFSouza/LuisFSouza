@@ -1,4 +1,4 @@
-# Hi there, I'm Luis Felipi Cruz de Souza 👋
+# Hi there, I'm Luis Felipi Cruz de Souza 👋 ![Views](https://komarev.com/ghpvc/?username=LuisFSouza&style=flat-square&color=blue)
 
 Desenvolvedor de Software focado no ecossistema Java e soluções em nuvem com GCP, com bacharelado em Ciência da Computação pela **UFSCar (Sorocaba)** e formação técnica em Desenvolvimento de Sistemas pela **ETEC João Belarmino**.
 
@@ -34,9 +34,7 @@ Desenvolvedor de Software focado no ecossistema Java e soluções em nuvem com G
 ### 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/LuisFSouza">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisFSouza&layout=compact&theme=radial&hide_border=true" alt="Top Langs" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=LuisFSouza&theme=github_dark" alt="Top Languages" />
 </div>
 
 ---
@@ -45,4 +43,3 @@ Desenvolvedor de Software focado no ecossistema Java e soluções em nuvem com G
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipi-cruz-de-souza-5a699522a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:330luisfelipe@gmail.com)
-![](https://komarev.com/ghpvc/?username=LuisFSouza&style=flat-square)
