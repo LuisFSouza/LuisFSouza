@@ -31,7 +31,7 @@ Desenvolvedor de Software focado no ecossistema Java e soluções em nuvem com G
 
 ---
 
-### 📊 Linguagens Mais Usadas
+### 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/LuisFSouza">
@@ -45,3 +45,4 @@ Desenvolvedor de Software focado no ecossistema Java e soluções em nuvem com G
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipi-cruz-de-souza-5a699522a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:330luisfelipe@gmail.com)
+![](https://komarev.com/ghpvc/?username=LuisFSouza&style=flat-square)
