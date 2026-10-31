@@ -1,32 +1,47 @@
-### Olá! Meu nome é Luis Felipi Cruz de Souza, sou estudante de Ciência da Computação na UFSCar - Sorocaba
----
-#### Formado em Técnico em Desenvolvimento de Sistemas pela ETEC João Belarmino, em Amparo - SP 
-#### Estudando Ciência da Computação na UFSCar em Sorocaba - SP, desde 2022 
----
-#### Atualmente estou estudando a linguagem Typescript, a biblioteca React, e o framework NestJS, com objetivo de atuar na área de desenvolvimento web. Também estou me familiarizando com o ambiente Linux.
---- 
-<div style="display:flex; flex-direction:row" >
-<div style="display:flex; flex-direction:column" >
+# Hi there, I'm Luis Felipi Cruz de Souza 👋
 
-### Tecnologias
-
-<div style="display:flex; flex-direction:row" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" Width="40"/>
-<img style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" Width="40"/>
-<img style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" Width="40"/>
-<img style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" Width="40"/>
-<img style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" Width="40"/>
-<img style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" Width="40"/>
-<img style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" Width="40"/>
-</div>
-<div style = "margin-left: 40px">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFSouza&layout=compact)](https://github.com/LuisFSouza)
-</div>
-</div>
+Desenvolvedor de Software focado no ecossistema Java e soluções em nuvem com GCP, com bacharelado em Ciência da Computação pela **UFSCar (Sorocaba)** e formação técnica em Desenvolvimento de Sistemas pela **ETEC João Belarmino**.
 
 ---
-### Redes Sociais:
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/luisfel.souza/)](https://www.instagram.com/luisfel.souza)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/LuisFelSouza)](https://twitter.com/LuisFelSouza)
-![](https://komarev.com/ghpvc/?username=LuisFSouza&style=flat-square)
+
+### 🚀 Sobre Mim
+
+- 💼 **Atuação:** Desenvolvedor de Software (Java & Spring Boot).
+- 🎓 **Formação:** Bacharel em Ciência da Computação (UFSCar) e Técnico em DEV (ETEC João Belarmino).
+- 🛠️ **Foco Atual:** Desenvolvimento de microsserviços com Java/Spring Boot, integração com **GCP** e aplicação de Clean Code & SOLID.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+#### Principais (Backend & Cloud)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Conhecimentos Adicionais (Web / Ecossistema Node)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/LuisFSouza">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFSouza&layout=compact&theme=radial&hide_border=true" alt="Top Langs" />
+  </a>
+</div>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipi-cruz-de-souza-5a699522a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:330luisfelipe@gmail.com)
